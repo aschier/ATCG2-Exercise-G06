@@ -1,0 +1,6 @@
+[submodule "OpenMesh"]
+	path = OpenMesh
+	url = https://www.graphics.rwth-aachen.de:9000/OpenMesh/OpenMesh.git
+[submodule "eigen3"]
+	path = eigen3
+	url = https://github.com/eigenteam/eigen-git-mirror
